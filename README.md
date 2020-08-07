@@ -1,4 +1,24 @@
-### Hi there 👋
+# Hi there, i'm Heri 👋
+
+- 📫 How to reach me: email me at hhakimsetiawan@gmail.com
+- 🌱 I’m currently learning about Docker and other deployment stacks
+- 🥅 2020 Goals: Contribute to Open Source projects
+- ⚡ Fun fact: I prefer to be called Hakim than Heri 😄
+
+### Connect with me:
+
+[<img align="left" alt="Heri Hakim | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Heri Hakim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Heri Hakim | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br/>
+<br/>
+<hr/>
+<img align="left" alt="hakimscode Github Stats" src="https://github-readme-stats.vercel.app/api?username=hakimscode&theme=algolia&show_icons=true">
+
+[twitter]: https://twitter.com/HeriHakim
+[instagram]: https://instagram.com/herihakim
+[linkedin]: https://linkedin.com/in/herihakim
 
 <!--
 **hakimscode/hakimscode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
