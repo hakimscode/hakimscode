@@ -1,8 +1,8 @@
 # Hi there, i'm Heri 👋
 
 - 📫 How to reach me: email me at hhakimsetiawan@gmail.com
-- 🌱 I’m currently learning about Docker and Cloud Engineering
-- 🥅 2021 Goals: Learn and Build scalable software with a good architecture
+- 🌱 I’m currently learning about Software Architecture
+- 🥅 2022 Goals: Learn and Build scalable software with a good architecture
 - ⚡ Fun fact: I prefer to be called Hakim than Heri 😄
 
 ### Connect with me:
