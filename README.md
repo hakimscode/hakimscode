@@ -17,7 +17,7 @@
 <img align="left" alt="hakimscode Github Stats" src="https://github-readme-stats.vercel.app/api?username=hakimscode&theme=algolia&show_icons=true">
 
 [twitter]: https://twitter.com/HeriHakim
-[instagram]: https://instagram.com/herihakim
+[instagram]: https://instagram.com/herihakimm
 [linkedin]: https://linkedin.com/in/herihakim
 
 <!--
